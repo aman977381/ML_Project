@@ -116,6 +116,8 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+.gitignore
+.dvcignore
 # SageMath parsed files
 *.sage.py
 
