@@ -5,8 +5,9 @@ python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
+scikit-optimize
 seaborn
-catboost
+#catboost
 xgboost
 ipykernel # only for jupyter notebook
 #-e .
