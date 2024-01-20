@@ -9,5 +9,7 @@ scikit-optimize
 seaborn
 #catboost
 xgboost
+mlflow
+flask
 ipykernel # only for jupyter notebook
 #-e .
